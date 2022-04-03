@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+    "advent_of_code_2019",
+    "helpers",
+    "day1",
+]
